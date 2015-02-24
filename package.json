@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "vow": "0.4.7",
-    "enb-bem-techs": "1.0.0"
+    "enb-bem-techs": "git://github.com/enb-bem/enb-bem-techs.git#incrop.deps-old-perf"
   },
   "devDependencies": {
     "enb": ">= 0.8.22",
